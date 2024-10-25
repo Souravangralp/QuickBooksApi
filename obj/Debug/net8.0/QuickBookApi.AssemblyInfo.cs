@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickBookApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+770195606e14c1b8a4859a4122324e059148f8df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255c65ea9f60372e0667d60c73e8ade30571a073")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickBookApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickBookApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

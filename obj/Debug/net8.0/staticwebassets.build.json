@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e5dnM3bXr2jEMHGxkVfzfXkmKH5l8oTG0Mb4DIvH43c=",
+  "Hash": "H/gC4koI+VY8D5rp74B1YN+n0sSw5+FHEwUA9yt3HWk=",
   "Source": "QuickBookApi",
   "BasePath": "_content/QuickBookApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QuickBookApi\\wwwroot",
       "Source": "QuickBookApi",
-      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\test\\QuickBooksApi\\wwwroot\\",
       "BasePath": "_content/QuickBookApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\resources\\token.json",
+      "Identity": "C:\\Users\\Dell\\source\\repos\\test\\QuickBooksApi\\wwwroot\\resources\\token.json",
       "SourceId": "QuickBookApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\test\\QuickBooksApi\\wwwroot\\",
       "BasePath": "_content/QuickBookApi",
       "RelativePath": "resources/token.json",
       "AssetKind": "All",
