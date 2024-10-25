@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "e5dnM3bXr2jEMHGxkVfzfXkmKH5l8oTG0Mb4DIvH43c=",
+  "Source": "QuickBookApi",
+  "BasePath": "_content/QuickBookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QuickBookApi\\wwwroot",
+      "Source": "QuickBookApi",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/QuickBookApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\resources\\token.json",
+      "SourceId": "QuickBookApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/QuickBookApi",
+      "RelativePath": "resources/token.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\token.json"
+    }
+  ]
+}

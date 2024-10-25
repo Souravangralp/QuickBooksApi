@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\WebApplication1\\wwwroot\\resources\\token.json",
+      "PackagePath": "staticwebassets\\resources\\token.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuickBookApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QuickBookApi.props",
+      "PackagePath": "build\\QuickBookApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QuickBookApi.props",
+      "PackagePath": "buildMultiTargeting\\QuickBookApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QuickBookApi.props",
+      "PackagePath": "buildTransitive\\QuickBookApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

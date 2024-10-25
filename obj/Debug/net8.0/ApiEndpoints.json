@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "QuickBookApi.Controllers.QuickBooksController",
+    "Method": "GetAuthCode",
+    "RelativePath": "quickBooks/authcode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickBookApi.Controllers.QuickBooksController",
+    "Method": "GetCompanyInfo",
+    "RelativePath": "quickBooks/getCompanyInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickBookApi.Controllers.QuickBooksController",
+    "Method": "GetRefreshToken",
+    "RelativePath": "quickBooks/getRefreshToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshToken",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "authCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickBookApi.Controllers.QuickBooksController",
+    "Method": "GetAuthorizationCode",
+    "RelativePath": "quickBooks/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickBookApi.Controllers.QuickBooksController",
+    "Method": "RedirectUrl",
+    "RelativePath": "quickBooks/redirect-url",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "state",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
